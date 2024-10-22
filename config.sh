@@ -2,10 +2,10 @@
 
 # Device
 export FOX_BRANCH="fox_6.0"
-export DT_LINK="https://gitlab.com/OrangeFox/device/beryllium.git -b fox_9.0"
+export DT_LINK="https://github.com/Android4Lumia950/twrp_android_device_msft_talkman"
 
 export DEVICE="bullhead"
-export OEM="lg"
+export OEM="lge"
 
 # Build Target
 ## "recoveryimage" - for A-Only Devices without using Vendor Boot
