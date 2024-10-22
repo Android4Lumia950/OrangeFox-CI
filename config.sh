@@ -18,7 +18,9 @@ export OUTPUT="OrangeFox*.zip"
 # Additional Dependencies (eg: Kernel Source)
 # Format: "repo dest"
 DEPS=(
-    "https://github.com/OrangeFoxRecovery/Avatar.git misc"
+    "https://github.com/OrangeFoxRecovery/Avatar.git misc
+"
+"https://github.com/Android4Lumia950/android_kernel_msft_talkman/ lineage-18.1"
 )
 
 # Extra Command
